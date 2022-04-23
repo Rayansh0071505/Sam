@@ -21,7 +21,7 @@ In this stage, we should include functionality for managing dialogues and genera
 for now just imitating the real project i have used <b>  English-to-Hindi </b> module 
 
 
-for sentimental analysis - Transfer learning, i.e. fine-tuning a pretrained language model for text classification, can be used if some data is available in the target language. but we don't have any available data in the target language. we need to Find some data in any language but of the same domain that we want to build the system for, and use zero-shot multilingual transfer
+for sentimental analysis - Transfer learning, i.e. fine-tuning a pretrained language model for text classification, can be used if some data is available in the target language. but we don't have any available data in the target language. we need to Find some data in any language but of the same domain that we want to build the system for, and use zero-shot multilingual transfer, the main game here which play game is <b>Generative Adversarial Network (GAN) </b>that involves automatically discovering and learning the regularities or patterns in input data in such a way that the model can be used to generate or output new examples that plausibly could have been drawn from the original dataset(here the data set can be voice_data(in code))
 
 Acoustic modeling, which represents the which phonemes were pronounced and what are the words these phonemes complete. for grammer purpose Pronunciation modeling, that analyzes the way phonemes are pronounced, is there any accent or other peculiarities of the vocal apparatus to capture the phonetic variability of speech. and Language modeling, which is aimed at finding contextual probabilities depending on what phonemes were captured!
 
