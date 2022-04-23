@@ -1,13 +1,13 @@
 ## Welcome Today i will introduce to you Mrs. Sam , She is virtual assistant bot which will help you to interact with users
 
 I have used these Modules
-  Speech Recognition
-  pyaudio
-  gtts
-  playsound
-  os
-  English-to-Hind
-  webbrowser
+  <li>Speech Recognition</li>
+  <li>pyaudio</li>
+ <li> gtts</li>
+  <li>  playsound</li>
+ <li> os </li>
+ <li> English-to-Hind </li>
+  <li>webbrowser</li>
 my project directly interact with user for example if user can and want to browse files or options it can directly says to machine and it will direct it to that place
 
 i havent used now but in future we will use Named Entity Recognition with the help of named entity recognition we can see what user want as It is what allows the bot to accurately identify entities in the inputted text such as date, time, location, quantities, names and product
