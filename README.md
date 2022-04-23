@@ -31,14 +31,14 @@ currently the problem is that its just a imitation of that but in future i will 
 
 
 <b><h2>What my model can do if it include in website? </b></h2> its currently phase
-bot will first address the user
-than bot will ask what user wants to do
-for example if user wants to do registration if ipo it will ask machine register
-the bot will confirm it
-after user can confirm it (user can confirm in local language also)
-bot will redirect user to that vakeelshala ipo registration page
+<li>bot will first address the user
+<li>than bot will ask what user wants to do
+<li>for example if user wants to do registration if ipo it will ask machine register
+<li>the bot will confirm it
+<li>after user can confirm it (user can confirm in local language also)
+<li>bot will redirect user to that vakeelshala ipo registration page
 
-apart from vakeelsearch if user want to know about right of person with disability or search anything on google or any other rights it can redirect it through that
+<li>apart from vakeelsearch if user want to know about right of person with disability or search anything on google or any other rights it can redirect it through that
 
 we have also introduced one case where if user enter he want to marry but he is below 18 our bot can direct him to that respected page and give him advice related to it
 
