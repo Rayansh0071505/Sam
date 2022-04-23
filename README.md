@@ -42,7 +42,7 @@ currently the problem is that its just a imitation of that but in future i will 
 
 we have also introduced one case where if user enter he want to marry but he is below 18 our bot can direct him to that respected page and give him advice related to it
 
-its just imitation but in future with help of  Generative Adversarial Network (GAN) ,transfer learning i.e. finetune a pretrained language model for text classification. and Named Entity Recognition we can evolve this bot to another level where it will be like virtual assistant where there is no hard code coding will be needed and no human interaction will be there and user can talk in his local language , 
+<i><h5>its just imitation but in future with help of  Generative Adversarial Network (GAN) ,transfer learning i.e. finetune a pretrained language model for text classification. and Named Entity Recognition we can evolve this bot to another level where it will be like virtual assistant where there is no hard code coding will be needed and no human interaction will be there and user can talk in his local language ,</i>
 
 <h3> it will take me some time , but i am sure it will be done </h3>
 
