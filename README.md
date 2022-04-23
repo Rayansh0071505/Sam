@@ -2,11 +2,11 @@
 
 I have used these Modules
 <li>
-  <ul>  Speech Recognition</ul>
-  <ul> pyaudio</ul>
+  <ul>  Speech Recognition</ul></li>
+<li>  <ul> pyaudio</ul></li>
   <ul> gtts</ul>
   <ul> playsound</ul>
   <ul> os</ul>
   <ul> English-to-Hindi</ul>
   <ul> webbrowser</ul>
-</li>
+
