@@ -12,7 +12,7 @@ my project directly interact with user for example if user can and want to brows
 
 i havent used now but in future we will use Named Entity Recognition with the help of named entity recognition we can see what user want as It is what allows the bot to accurately identify entities in the inputted text such as date, time, location, quantities, names and product
 
-in india we have only 75 million population speaking english so if organisation like Vakeelsearch want to cover every corner our bot can help where it uses nltk and
+in india we have only 75 million population speaking english so if organisation like legal organisation want to cover every corner our bot can help where it uses nltk and
 As a first step, we use Automatic Speech Recognition to convert the user's speech to text. Using Natural Language Processing, we decipher the transcribed text, take appropriate actions, and compose a text response.
 
 In this stage, we should include functionality for managing dialogues and generating natural language. With speech processing and Natural Language Processing (NLP) using machine learning, intelligent devices, such as smartphones, can communicate with their users verbally.
@@ -36,9 +36,9 @@ currently the problem is that its just a imitation of that but in future i will 
 <li>for example if user wants to do registration if ipo it will ask machine register
 <li>the bot will confirm it
 <li>after user can confirm it (user can confirm in local language also)
-<li>bot will redirect user to that vakeelshala ipo registration page
+<li>bot will redirect user to that v ipo registration page
 
-<li>apart from vakeelsearch if user want to know about right of person with disability or search anything on google or any other rights it can redirect it through that
+<li>apart from legal advice if user want to know about right of person with disability or search anything on google or any other rights it can redirect it through that
 
 we have also introduced one case where if user enter he want to marry but he is below 18 our bot can direct him to that respected page and give him advice related to it
 
